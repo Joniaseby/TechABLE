@@ -11,7 +11,7 @@
 - Member 3: Krishnanjana M A-  Sahrdaya College Of Engineering
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://mohammed-mu.github.io/techAbel/
 
 ### Project Description
 TechABLE is an innovative job portal web app dedicated to connecting disabled individuals with employment opportunities that match their skills and abilities. Our platform promotes inclusivity, diversity, and equal access to job listings and career resources. Unlocking potential, one job at a time.
@@ -54,27 +54,9 @@ For Software:
 
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- 
 
 ---
 Made with ❤️ at TinkerHub
