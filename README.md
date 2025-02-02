@@ -50,7 +50,8 @@ For Software:
 
 
 # Build Photos
-![Team](Add photo of your team here)
+![cdd3c228-f6e2-4f49-8f34-b184b8f56f9d](https://github.com/user-attachments/assets/f1b58f02-2a40-4322-a2b0-ec2c2b14e9b3)
+
 
 
 ![Components](Add photo of your components here)
