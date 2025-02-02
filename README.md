@@ -17,8 +17,8 @@
 TechABLE is an innovative job portal web app dedicated to connecting disabled individuals with employment opportunities that match their skills and abilities. Our platform promotes inclusivity, diversity, and equal access to job listings and career resources. Unlocking potential, one job at a time.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
 
+Many disabled individuals face significant barriers when searching for employment, including inaccessible job listings, biased hiring practices, and lack of accommodations. This leads to disproportionately high rates of unemployment and underemployment among disabled individuals.
 ### The Solution
 [How are you solving it? Keep it fun!]
 
