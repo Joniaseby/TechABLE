@@ -7,8 +7,8 @@
 
 ### Team Members
 - Member 1: Jonia seby - Sahrdaya College Of Engineering
-- Member 2: Gowrinandana - 
-- Member 3: Krishnanjana M A- [College]
+- Member 2: Gowrinandana -  Sahrdaya College Of Engineering
+- Member 3: Krishnanjana M A-  Sahrdaya College Of Engineering
 
 ### Hosted Project Link
 [mention your project hosted project link here]
@@ -25,49 +25,29 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- JavaScript
+- React
+- FireBase
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+`npm i`
 
 # Run
-[commands]
+`npm run dev`
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Home](https://github.com/user-attachments/assets/8434f70a-02f8-4711-901a-74d0722c5833)
+![Signup](https://github.com/user-attachments/assets/ba073c9c-91c0-4d90-b367-08fcf3bbdca1)
+![login](https://github.com/user-attachments/assets/7e44ffb9-8dcf-4eee-8ab3-e8827960b664)
+![Add job](https://github.com/user-attachments/assets/de497353-994d-47d7-8850-af8e0e44796b)
+![jobs](https://github.com/user-attachments/assets/b1d3641d-e9c2-4aa4-851f-788780f64504)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
