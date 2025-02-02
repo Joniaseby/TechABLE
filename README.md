@@ -14,7 +14,7 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+TechABLE is an innovative job portal web app dedicated to connecting disabled individuals with employment opportunities that match their skills and abilities. Our platform promotes inclusivity, diversity, and equal access to job listings and career resources. Unlocking potential, one job at a time.
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
