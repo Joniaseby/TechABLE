@@ -1,37 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#TechABLE 🎯
 
-## Getting Started
 
-First, run the development server:
+## Basic Details
+### Team Name: CODE CRUSTERS
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Team Members
+- Member 1: Jonia seby - Sahrdaya College Of Engineering
+- Member 2: Gowrinandana - 
+- Member 3: Krishnanjana M A- [College]
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Hosted Project Link
+[mention your project hosted project link here]
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Project Description
+[2-3 lines about what your project does]
 
-## Learn More
+### The Problem statement
+[What ridiculous problem are you solving?]
 
-To learn more about Next.js, take a look at the following resources:
+### The Solution
+[How are you solving it? Keep it fun!]
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technical Details
+### Technologies/Components Used
+For Software:
+- [Languages used]
+- [Frameworks used]
+- [Libraries used]
+- [Tools used]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
 
-## Deploy on Vercel
+### Implementation
+For Software:
+# Installation
+[commands]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Run
+[commands]
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# TechABLE
+### Project Documentation
+For Software:
+
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
+
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
+
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
+
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
+
+For Hardware:
+
+# Schematic & Circuit
+![Circuit](Add your circuit diagram here)
+*Add caption explaining connections*
+
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
+
+# Build Photos
+![Team](Add photo of your team here)
+
+
+![Components](Add photo of your components here)
+*List out all components shown*
+
+![Build](Add photos of build process here)
+*Explain the build steps*
+
+![Final](Add photo of final product here)
+*Explain the final build*
+
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
+
+# Additional Demos
+[Add any extra demo materials/links]
+
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
+
+---
+Made with ❤️ at TinkerHub
